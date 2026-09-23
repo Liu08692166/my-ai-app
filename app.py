@@ -7,7 +7,7 @@ st.set_page_config(page_title="无名", page_icon="🔮", layout="wide")
 # ===== 侧边栏 =====
 with st.sidebar:
     st.markdown("<h1 style='text-align: center;'>🔮 无名</h1>", unsafe_allow_html=True)
-    st.caption("你的全能AI小助手")
+    st.caption("一款需要包容的测试ai")
     st.divider()
     
     mode = st.selectbox(
